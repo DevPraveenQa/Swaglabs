@@ -1,0 +1,1 @@
+{"uuid":"c95c3419-8ad9-400c-8d86-0bbe5db50d7b","name":"Default suite","children":["bb312380-359c-4ce7-8d8e-1770e4c1255a"],"befores":[{"name":"stertTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1724524667307,"stop":1724524667793}],"afters":[],"start":1724524667252,"stop":1724524721851}
